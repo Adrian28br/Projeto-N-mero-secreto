@@ -1,0 +1,5 @@
+&& == and
+|| == or
+´$()´ == substitui oq tá dentro dos parenteses 
+! == negação
+vs code - ctrl k c comenta varias, ctrl k u descomenta varias
